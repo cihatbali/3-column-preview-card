@@ -15,6 +15,7 @@
 body {
     height:98vh;
     font-size:15px;
+    background: var(--Very-light-gray);
 }
 
 main {
